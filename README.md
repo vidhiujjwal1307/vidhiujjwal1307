@@ -4,7 +4,7 @@
 
 🎓 B.Tech CSE (AI) Student at Bennett University
 
-💻 Full Stack Developer
+💻 Full Stack Developer| AI/ML Developer
 
 🤖 AI & Open Source Enthusiast
 
@@ -37,7 +37,7 @@ SQLite • MySQL
 
 ### Tools
 
-Git • GitHub • VS Code • Postman
+Git • GitHub • VS Code
 
 
 ---
