@@ -95,18 +95,6 @@ A full-stack personal finance management application that enables secure authent
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vidhiujjwal1307&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhiujjwal1307&layout=compact&theme=radical"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
