@@ -5,7 +5,7 @@ Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI)+Student;Full+Stack+Developer;Building+RecallOS;AI-Powered+Applications;Open+Source+Learner;Always+Learning+New+Things+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Building+Products+That+Make+an+Impact+🚀;Full+Stack+Developer+💻;AI+Enthusiast+🤖;Turning+Ideas+into+Reality+✨;Always+Learning.+Always+Building.+🌸"/>
 </p>
 
 <p align="center">
@@ -94,6 +94,15 @@ A full-stack personal finance management application that enables secure authent
 ⚡ FastAPI
 
 ---
+## 🧩 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/vidhiujjwal72006/">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 # 🔥 GitHub Streak
 
