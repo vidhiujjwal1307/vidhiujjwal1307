@@ -104,6 +104,7 @@ A full-stack personal finance management application that enables secure authent
 
 </p>
 
+---
 # 🔥 GitHub Streak
 
 <p align="center">
