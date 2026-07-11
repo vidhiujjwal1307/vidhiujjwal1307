@@ -94,17 +94,6 @@ A full-stack personal finance management application that enables secure authent
 ⚡ FastAPI
 
 ---
-## 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/vidhiujjwal72006/">
-<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
 # 🔥 GitHub Streak
 
 <p align="center">
