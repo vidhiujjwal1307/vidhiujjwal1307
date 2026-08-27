@@ -20,7 +20,7 @@ Full Stack Developer • AI Enthusiast
 
 💻 Passionate about building **Full Stack & AI-powered applications**
 
-🚀 Currently developing **RecallOS**, an AI-powered second brain
+🚀 Developing innovative solutions with **modern web technologies and AI**
 
 🌱 Exploring **Open Source, System Design & Modern Web Technologies**
 
@@ -34,44 +34,43 @@ Full Stack Developer • AI Enthusiast
 
 ### 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F51?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-8E44AD?style=for-the-badge)
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-EC4899?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge\&logo=react\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-EC4899?style=for-the-badge\&logo=tailwind-css)
 
 ### ⚙️ Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-EC4899?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-EC4899?style=for-the-badge\&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge\&logo=express)
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-FF69B4?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-FF69B4?style=for-the-badge\&logo=sqlite)
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 RecallOS (Currently Building)
+## 👩‍💼 HR Recruitment
 
-An AI-powered second brain designed to capture, organize, and retrieve memories effortlessly. It features intelligent search, personalized dashboards, timeline views, categorization, import/export functionality, and a modern React + FastAPI architecture to help users manage information efficiently.
+An AI-powered recruitment platform designed to streamline the hiring process. It helps manage job postings, candidate applications, recruitment workflows, and candidate information through a modern full-stack architecture.
 
 ---
 
@@ -94,11 +93,24 @@ A full-stack personal finance management application that enables secure authent
 ⚡ FastAPI
 
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=vidhiujjwal1307&theme=radical"/>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=vidhiujjwal1307&theme=radical&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vidhiujjwal1307&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
 </p>
 
@@ -106,7 +118,11 @@ A full-stack personal finance management application that enables secure authent
 
 # 📈 Contribution Graph
 
-[![Vidhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhiujjwal1307&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhiujjwal1307&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -114,11 +130,11 @@ A full-stack personal finance management application that enables secure authent
 
 💼 **LinkedIn**
 
-www.linkedin.com/in/vidhiujjwal77
+[www.linkedin.com/in/vidhiujjwal77](http://www.linkedin.com/in/vidhiujjwal77)
 
 📧 **Email**
 
-vidhiujjwal07@gmail.com
+[vidhiujjwal07@gmail.com](mailto:vidhiujjwal07@gmail.com)
 
 ---
 
